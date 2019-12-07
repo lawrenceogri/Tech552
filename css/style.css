@@ -1,0 +1,75 @@
+.navbar-nav{
+	font-size: 1.2em;
+    padding: 0;
+    width: fit-content;
+}
+
+.navbar-nav li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar-nav{
+    margin: 0 auto;
+}
+
+.header{
+    height: 100vh;
+    background-image: url("../img/background.jpg");
+    background-size: 100% 100%;
+}
+
+
+
+.overlay{
+    min-height: 100vh;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(244, 244, 244, 0.7);
+   }
+
+.header h1{
+    color: rgb(88, 85, 85);
+    margin-left: 3em;
+    padding-top: 3em;
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: 'Lora', serif;
+}
+
+.hello{
+    color: rgb(155, 155, 155);
+}
+
+.about{
+    margin-top: 40px;
+}
+
+h2{
+    color: rgb(88, 85, 85);
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-family: 'Lora', serif;
+}
+
+.about p{
+    font-family: 'Nunito Sans', sans-serif;
+    color: rgb(88, 85, 85);
+    text-align: justify;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+}
+
+i{
+    color: rgb(196,144,117);
+    /* background: pink; */
+}
